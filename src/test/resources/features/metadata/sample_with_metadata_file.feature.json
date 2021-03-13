@@ -1,0 +1,15 @@
+{
+  "filename": "features/sample_with_metadata_file.feature",
+  "scenarios": [
+    {
+      "type": "Scenario",
+      "scenario": "The one who returns valid response",
+      "urls": {
+        "int": "",
+        "test": "/add_your_endpoint",
+        "stage": "",
+        "live": ""
+      }
+    }
+  ]
+}
