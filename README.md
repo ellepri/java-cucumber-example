@@ -9,7 +9,7 @@ There's 3 ways to set the endpoint
 2. Use metadata json file
 3. Use scenario step
 ````
-$ cd java-bdd-cucumber-example
+$ cd java-cucumber-example
 $ mvn clean test
 ````
 
